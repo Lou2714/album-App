@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/album-App/static/css/main.ce88e16b.chunk.css",
+    "main.js": "/album-App/static/js/main.3d1d1a24.chunk.js",
+    "main.js.map": "/album-App/static/js/main.3d1d1a24.chunk.js.map",
+    "runtime-main.js": "/album-App/static/js/runtime-main.b20f6a66.js",
+    "runtime-main.js.map": "/album-App/static/js/runtime-main.b20f6a66.js.map",
+    "static/css/2.1935a16d.chunk.css": "/album-App/static/css/2.1935a16d.chunk.css",
+    "static/js/2.58f9f453.chunk.js": "/album-App/static/js/2.58f9f453.chunk.js",
+    "static/js/2.58f9f453.chunk.js.map": "/album-App/static/js/2.58f9f453.chunk.js.map",
+    "static/js/3.eff4fed3.chunk.js": "/album-App/static/js/3.eff4fed3.chunk.js",
+    "static/js/3.eff4fed3.chunk.js.map": "/album-App/static/js/3.eff4fed3.chunk.js.map",
+    "index.html": "/album-App/index.html",
+    "static/css/2.1935a16d.chunk.css.map": "/album-App/static/css/2.1935a16d.chunk.css.map",
+    "static/css/main.ce88e16b.chunk.css.map": "/album-App/static/css/main.ce88e16b.chunk.css.map",
+    "static/js/2.58f9f453.chunk.js.LICENSE.txt": "/album-App/static/js/2.58f9f453.chunk.js.LICENSE.txt",
+    "static/media/collage-login.e4d06bad.png": "/album-App/static/media/collage-login.e4d06bad.png",
+    "static/media/collage.e118b2a5.png": "/album-App/static/media/collage.e118b2a5.png",
+    "static/media/hustle.894e4336.png": "/album-App/static/media/hustle.894e4336.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b20f6a66.js",
+    "static/css/2.1935a16d.chunk.css",
+    "static/js/2.58f9f453.chunk.js",
+    "static/css/main.ce88e16b.chunk.css",
+    "static/js/main.3d1d1a24.chunk.js"
+  ]
+}
